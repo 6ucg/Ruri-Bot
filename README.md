@@ -1,7 +1,7 @@
-# Veno
+# Ruri
 
 Easy to use information gathering bot
-Maintained by NixonXC
+Maintained by Baron
 
 # Requirements
 
