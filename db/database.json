@@ -1,0 +1,5 @@
+{
+    "AUTH": "TOKEN"
+    "PREFIX": "v!",
+    "STREAM_URL": "https://twitch.tv/nixonxc/"
+}
